@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi I'm Kimia 👋
+💻 Java Backend Developer in progress
 
-<!--
-**kimisham-lab/kimisham-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning and building projects with Java.
 
-Here are some ideas to get you started:
+🛠️ Technologies I'm learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Object-Oriented Programming
+- Collections & Streams
+- JDBC
+- JPA / Hibernate
+- PostgreSQL
+- Servlets
+- Maven
+- Spring / Spring Boot
+
+🚀 Currently working on
+
+Building backend projects with Java, focusing on clean architecture, databases, REST APIs and real-world applications.
+
+ 📚 My goal
+
+To become a strong Java Backend Developer by learning consistently and building real projects.
+
+> Learning by building, one project at a time. ☕💻
+
