@@ -6,7 +6,6 @@
 🛠️ Technologies I'm learning:
 
 - Java
-- Object-Oriented Programming
 - Collections & Streams
 - JDBC
 - JPA / Hibernate
